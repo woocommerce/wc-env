@@ -1,0 +1,8 @@
+# Node dependencies
+node_modules
+
+# WP-Env config files
+.wp-env.override.json
+
+# Others
+.DS_Store

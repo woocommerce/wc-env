@@ -1,0 +1,26 @@
+{
+  "name": "wc-env",
+  "version": "1.0.0",
+  "description": "A tool for easily setting up a WooCommerce site locally with multiple configurations.",
+  "main": "wc-env.js",
+  "scripts": {
+    "wp-env": "wp-env"
+  },
+  "keywords": [
+    "WooCommerce",
+    "testing",
+    "wp-env",
+    "local",
+    "environment",
+    "WordPress",
+    "wc-env",
+    "ecommerce",
+    "test"
+  ],
+  "author": "alopezari",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/env": "^5.2.0",
+    "commander": "^9.4.0"
+  }
+}
